@@ -1,0 +1,7 @@
+* {
+  font-family: "Chalet", sans-serif;
+}
+@font-face {
+  font-family: "CharletComprime";
+  src: url("../fontes/ChaletComprime.ttf");
+}
